@@ -1,0 +1,25 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 1,
+      "id": "farmersdelight:tree_bark"
+    },
+    {
+	  "chance": 0.5,
+      "count": 1,
+      "id": "farmersdelight:tree_bark"
+    },
+    {
+	  "chance": 0.25,
+      "count": 1,
+      "id": "create:pulp"
+    }
+  ]
+}
