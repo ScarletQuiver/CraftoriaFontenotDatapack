@@ -11,7 +11,8 @@
       "item": "farmersdelight:pie_crust"
     },
     {
-      "fluidTag": "forge:chocolate",
+      "type": "fluid_tag",
+      "fluid_tag": "c:chocolate",
       "amount": 500
     }
   ],
