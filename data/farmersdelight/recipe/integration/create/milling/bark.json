@@ -12,12 +12,12 @@
       "id": "farmersdelight:tree_bark"
     },
     {
-	    "chance": 0.5,
+      "chance": 0.5,
       "count": 1,
       "id": "farmersdelight:tree_bark"
     },
     {
-	    "chance": 0.25,
+      "chance": 0.25,
       "count": 1,
       "id": "create:pulp"
     }
