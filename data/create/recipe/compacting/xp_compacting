@@ -4,7 +4,7 @@
      {
       "type": "fluid_stack",
       "fluid": "sophisticatedcore:xp_still",
-      "amount": 500
+      "amount": 60
     }
   ],
   "results": [
