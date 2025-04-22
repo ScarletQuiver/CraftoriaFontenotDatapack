@@ -23,7 +23,17 @@
   ],
   "results": [
     {
-      "id": "minecraft:netherite_ingot"
+      "id": "create:experience_nugget"
     }
   ]
 }
+
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "results": [
+    {
+      "id": "sophisticatedcore:xp_still",
+      "amount": 60
+    }
