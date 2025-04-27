@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+     {
+      "type": "fluid_stack",
+      "fluid": "sophisticatedcore:xp_still",
+      "amount": 60
+    }
+  ],
+  "results": [
+    {
+      "id": "create:experience_nugget"
+    }
+  ]
+}
