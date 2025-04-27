@@ -1,0 +1,14 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:experience_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "sophisticatedcore:xp_still",
+      "amount": 540
+    }
+  ]
+}
