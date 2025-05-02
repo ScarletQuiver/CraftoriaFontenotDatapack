@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:dough"
+    }
+  ],
+  "results": [
+    {
+      "id": "moredelight:toast"
+    }
+  ]
+}
