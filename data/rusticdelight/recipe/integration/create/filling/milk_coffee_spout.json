@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "rusticdelight:coffee"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid_tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "rusticdelight:milk_coffee"
+    }
+  ]
+}
